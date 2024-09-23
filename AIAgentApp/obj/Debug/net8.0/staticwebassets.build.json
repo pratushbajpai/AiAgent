@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/CVzRqfMQ3HTKZEfZqanuj9jwVZXEVIAbC01Ds8Ztkw=",
+  "Source": "AIAgentAppSvc",
+  "BasePath": "_content/AIAgentAppSvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

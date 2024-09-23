@@ -1,0 +1,12 @@
+C:\Git\AIAgent\AiAgent.Interactions\bin\Release\net8.0\AiAgent.Interactions.deps.json
+C:\Git\AIAgent\AiAgent.Interactions\bin\Release\net8.0\AiAgent.Interactions.dll
+C:\Git\AIAgent\AiAgent.Interactions\bin\Release\net8.0\AiAgent.Interactions.pdb
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\AiAgent.Interactions.csproj.AssemblyReference.cache
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\AiAgent.Interactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\AiAgent.Interactions.AssemblyInfoInputs.cache
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\AiAgent.Interactions.AssemblyInfo.cs
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\AiAgent.Interactions.csproj.CoreCompileInputs.cache
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\AiAgent.Interactions.dll
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\refint\AiAgent.Interactions.dll
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\AiAgent.Interactions.pdb
+C:\Git\AIAgent\AiAgent.Interactions\obj\Release\net8.0\ref\AiAgent.Interactions.dll

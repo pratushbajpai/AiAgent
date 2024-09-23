@@ -1,0 +1,12 @@
+C:\Git\AIAgent\AIAgent.ServiceDefaults\bin\Release\net8.0\AIAgent.ServiceDefaults.deps.json
+C:\Git\AIAgent\AIAgent.ServiceDefaults\bin\Release\net8.0\AIAgent.ServiceDefaults.dll
+C:\Git\AIAgent\AIAgent.ServiceDefaults\bin\Release\net8.0\AIAgent.ServiceDefaults.pdb
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\AIAgent.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\AIAgent.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\AIAgent.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\AIAgent.ServiceDefaults.AssemblyInfo.cs
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\AIAgent.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\AIAgent.ServiceDefaults.dll
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\refint\AIAgent.ServiceDefaults.dll
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\AIAgent.ServiceDefaults.pdb
+C:\Git\AIAgent\AIAgent.ServiceDefaults\obj\Release\net8.0\ref\AIAgent.ServiceDefaults.dll
